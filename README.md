@@ -1,8 +1,6 @@
-# ⛹⛹⛹ Mixamo Character Animation Combiner ⛹⛹⛹
+Mixamo Character Animation Combiner
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## [LIVE HERE 💎](https://nilooy.github.io/mixamo-animation-combiner/)
+This project was bootstrap with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Run Locally
 
